@@ -1,0 +1,3 @@
+interface:
+  display_name: "Meeting Notes"
+  short_description: "Extract meeting decisions and action items"

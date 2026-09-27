@@ -1,0 +1,7 @@
+node_modules/
+*.tgz
+.agents/
+.claude/
+.cursor/
+*.log
+.DS_Store
